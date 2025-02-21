@@ -22,7 +22,7 @@ Installation
 Follow these steps to get the chatbot running locally.
 1. Clone the repository
 
-git clone https://github.com/your-username/llm-chatbot.git
+git clone  https://github.com/Panchajanya2105/chatbot.git
 cd llm-chatbot
 
 2. Create a virtual environment (optional but recommended)
