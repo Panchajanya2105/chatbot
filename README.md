@@ -32,7 +32,7 @@ source venv/bin/activate
 # On Windows, 
 use `venv\Scripts\activate`
 
-3. # Install dependencies
+# 3. Install dependencies
 
 Install the necessary libraries using pip:
 
@@ -44,14 +44,14 @@ requirements.txt includes:
     google-generativeai: For interacting with Google's Generative AI.
     python-dotenv: For managing environment variables.
 
-4. # Set up environment variables
+# 4.  Set up environment variables
 
 Create a .env file in the root of the project and add your Google API credentials:
 
 GOOGLE_API_KEY=your_google_api_key_here
 
 Make sure you have the correct API key from Google Cloud and have enabled the necessary API services.
-5. # Run the application
+# 5.  Run the application
 
 After setting everything up, you can run the app with:
 
